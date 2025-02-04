@@ -7,6 +7,15 @@
 🎯 专为TRON开发者打造的"瑞士军刀级"开发套件
 ✅ 200+智能接口矩阵 | ✅ 企业级安全架构 | ✅ 全生态即插即用
 
+---
+
+## 🌐 重要链接
+
+- **测试地址**: [测试API](https://trx.phpcode.site/)
+- **在线文档**: [TronApi3 文档](https://tronapi.gitbook.io/trx)
+- **项目官网**: [TronApi3 官网](https://www.phpcode.site/)
+
+
 💎 三大核爆级优势：
 
 ▌⚡闪电开发力 —— 新手3天上线DApp的魔法公式
@@ -28,18 +37,16 @@
 - "原来需要半年的项目，现在两周就能交付！" —— 链游TOP3团队CTO
 
 🎁 限时开发者特权包 🎁
-- ✔ 注册即送$500 API调用额度
 - ✔ 专属架构师1v1方案定制
 - ✔ 抢先获取TRON生态白皮书
-👉 Telegram急速通道：@king_orz
+👉 Telegram急速通道：🍭🍭🍭 [@king_orz](https://t.me/king_orz)
 
 💡 为什么选择我们？
 - √ 开源透明架构 —— 基于ThinkPHP的极简代码，零加密/零后门
 - √ 全栈语言适配 —— Python/Golang/PHP/Java多语言SDK全家桶
 - √ 商业级扩展 —— 轻松私有化部署，支持百万级并发架构
 
-🚀 立即行动开发者！抢占TRON生态黄金席位
-「点击开启」>>> 领取价值$2000的开发者大礼包 💰
+🚀 立即行动开发者！抢占TRON生态黄金席位 联系我-> Telegram: 🍭🍭🍭 [@king_orz](https://t.me/king_orz)
 
 📌 技术极客必读：
 
@@ -49,13 +56,6 @@ GitHub星标破万的开源组件库
 
 🌍 让代码在区块链上起舞！TronApi3为您插上腾飞之翼
 
----
-
-## 🌐 重要链接
-
-- **测试地址**: [测试API](https://trx.phpcode.site/)
-- **在线文档**: [TronApi3 文档](https://tronapi.gitbook.io/trx)
-- **项目官网**: [TronApi3 官网](https://www.phpcode.site/)
 
 ---
 
